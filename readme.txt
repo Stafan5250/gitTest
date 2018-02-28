@@ -1,4 +1,4 @@
 hello world!
 hello Stafan!
 hello Cindy!
-This is a long long long ...
+This is a long long long logs!
